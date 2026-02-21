@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 export const metadata = {
   title: "WNY Renovations & Repairs LLC | Buffalo Renovation Company",
   description: "Modern kitchen & bathroom renovations, tile/flooring, drywall/paint, handyman services, and moving/hauling in Buffalo and surrounding suburbs.",
-  metadataBase: new URL("https://example.com"),
+ metadataBase: new URL("https://wnyrenovation.com"),
   openGraph: {
     title: "WNY Renovations & Repairs LLC",
     description: "Modern luxury renovations in Buffalo and its suburbs.",
