@@ -3,10 +3,6 @@
 import { useMemo, useState } from "react";
 import SectionHeading from "@/components/SectionHeading";
 
-export const metadata = {
-  title: "Contact | WNY Renovations & Repairs LLC",
-  description: "Request a free estimate for renovation or handyman work in Buffalo and suburbs.",
-};
 
 const initial = { name: "", phone: "", email: "", address: "", service: "Kitchen renovation", details: "" };
 
